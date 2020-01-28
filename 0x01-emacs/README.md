@@ -1,5 +1,5 @@
 This Directory contains files that have answers to the Tasks set forth on the intranet.
-\n
+   
 0. Opening
 1. Saving
 2. Cutting an entire line
