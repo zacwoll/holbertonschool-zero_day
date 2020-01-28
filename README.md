@@ -1,5 +1,4 @@
 # holbertonschool-zero_day
-# holbertonschool-zero_day
 1. Create and setup my Git and Github account
 	* Configure my day_zero holbertonschool project (public repo w/no .gitignore or license)
 	* Create a README presenting the project
