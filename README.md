@@ -3,5 +3,8 @@
 	* Configure my day_zero holbertonschool project (public repo w/no .gitignore or license)
 	* Create a README presenting the project
 	* Commit to my first holbertonschool project
-2. Create a new directory called 0x00-vagrant with a README
+2. Create 3 new directories in the project, filled with some knowledge of
+	* the emacs editor
+	* the vi editor
+	* git, and the process of managing commits and branches.
 
